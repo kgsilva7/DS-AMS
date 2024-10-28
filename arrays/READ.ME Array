@@ -1,0 +1,75 @@
+## Atividade (Array)
+ 
+## Exercício 1
+ 
+ 
+- `Arrays`: feito paravalidar as variaveis e indices com string.
+-`Arrays.sort()` organiza o array em ordem crescente de form alfabética para as strings).
+ 
+- Array de `String` é declarado para armazenar 10 nomes do usúario.
+ 
+-`Arrays.sort(nomes)` organiza os nomes do usúario em ordem alfabética.
+ 
+ 
+---
+ 
+## Exercício 2
+ 
+- `Arrays`.
+-`Arrays.sort()` para ordenar os números do usúario.
+ 
+- Array de `String` declarado para armazenamento de 20 nomes de usúario.
+ 
+-`Arrays.sort(nomes)` organizando os nomes em ordem crescente.
+-`Collections.reverseOrder()` para deixa-los decrescente.
+ 
+---
+ 
+## Exercício 3
+ 
+- `Array`.
+ 
+-Array de `int` é declarado para armazenar 50 números inteiros do usúario.
+ 
+-`Arrays.sort(numeros)` organizando os números em ordem crescente.
+ 
+---
+ 
+## Exercício 4
+- `Array`.
+ 
+- Array de `int` armazenando 50 números inteiros do usúario.
+ 
+-`Arrays.sort(numeros)` organizando os números em ordem crescente.
+`Collections.reverseOrder()` para deixa-los decrescente.
+
+ 
+---
+ 
+## Exercício 5
+ 
+- `Array`.
+ 
+- array de `int` armazenamento de 100 números pares.
+ 
+- `Arrays.sort(pares)` organiza os números pares em ordem crescente.
+ 
+---
+ 
+## Exercício 6
+ 
+- `Arrays`: Para manipulação de arrays e organização de números.
+ 
+- Um array de `int` é declarado para armazenar 100 números inteiros.
+
+-`Arrays.sort(impares)` organiza os números ímpares em ordem crescente.
+ 
+ 
+ 
+---
+ 
+## Exercício 7
+
+ 
+- Array com a pontuação de classificação dos times do Brasileirão.
+- Tabela de pontos com a posição de cada time.
