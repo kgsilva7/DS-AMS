@@ -1,2 +1,2 @@
 # 1DS-AMS
-Meus codigos, trabalhos e lições feitas com a Etec Zona Leste sobre Front-End.
+Todos os meus códigos, trabalhos e lições de Front-End feitas durante meu primeiro ano cursando Análise de Desenvolvimento de Sistemas na ETEC Zona Leste.
